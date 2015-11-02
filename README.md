@@ -7,9 +7,13 @@ Website is built using Wordpress version 4.3.1
 Plugins:
 
 -BizChatBox
+
 -Contact Form 7
+
 -WonderPlugin Slider
+
 -Huge IT video player
+
 -Meta Slider
 
 Website Integrations:
